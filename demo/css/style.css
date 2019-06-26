@@ -15,3 +15,17 @@ website: https://github.com/asoltani927 https://viraseper.com https://asoltani.i
 body{
     padding-top: 5%;
 }
+
+.list_slider{
+    border: 1px solid #ececec;
+    padding: 2px;
+    overflow: hidden;
+    border-radius: 30px;
+
+}
+.listslider{
+    margin: 0 !important;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
