@@ -23,7 +23,7 @@
                 speed: 100,
                 playPause: true,
                 content: false,
-            }
+            };
 
             if (OptionArgs != false) {
                 $.each(OptionArgs, function (key, value) {
